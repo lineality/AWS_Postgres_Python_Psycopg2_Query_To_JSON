@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1RuiOGcHOAoiRoN7Lb-n0W7Aj6otX5cok?usp=sh
 
 ## Example Code:
 
-'''
+```
 # import your libraries
 import boto3
 import json
@@ -143,4 +143,4 @@ def lambda_handler(event, context):
        'body': output
        }
 
-'''
+```
