@@ -7,7 +7,10 @@ This is designed to be used in an AWS lambda-function.
 #### See Colab Version:
 https://colab.research.google.com/drive/1RuiOGcHOAoiRoN7Lb-n0W7Aj6otX5cok?usp=sharing 
 
-Note: You will need to use an uploaded env containing these libraries for the AWS Lambda Function (see guide for that here: 
+## Note: 
+#### You will need to use an uploaded env containing these libraries for the AWS Lambda Function (see guide for that here: https://github.com/lineality/adding_python_libraries_to_AWS_Lambda_function )
+
+## Example Code:
 
 '''
 # import your libraries
